@@ -1,6 +1,8 @@
 # Raspberry_pi_edge_ML
+
+<span style="color: red;">text</span>
 ```diff
-+ __Instructions_to_run__
+ + Instructions to run
 ```
 --Download the repository as a zip file 
 --Extract the folder

@@ -17,7 +17,7 @@ print('All packages are imported')
 
 ####################LOAD_MODEL######################
 time1 = time.time()
-tflite_model = '/home/pi/GPIO_Projects/Project Files/lite_flowers_model.tflite'
+tflite_model = './weights/lite_flowers_model.tflite'
 # Initialize TFLite interpreter using the model.
 # Load TFLite model and allocate tensors.
 interpreter = tf.lite.Interpreter(model_path=tflite_model)

@@ -49,7 +49,7 @@ Output log should be present in ./log/*
 
 ! It will ask for prompt "Enter path of image directory where images are present:"
 
-! Give prompt input as ./test_orig
+! Give prompt input as ./test_dwt
 
 ! Once all finish press ctrl+c
 

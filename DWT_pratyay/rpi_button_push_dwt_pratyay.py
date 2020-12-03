@@ -27,7 +27,7 @@ print('Time for Loading the model', time2-time1, 'Seconds')
 print("Press pushbutton for predicting images")
 
 ####################READ_SINGLE_IMAGE_AND_PREDICT######################
-def arindam_code_read_image_and_predict(input_image):
+def pratyay_code_read_image_and_predict(input_image):
     print("Image to be predicted is : ", input_image)
     time0 = time.time()
     test = cv2.imread(input_image)

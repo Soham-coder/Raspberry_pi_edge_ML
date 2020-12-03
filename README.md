@@ -2,14 +2,15 @@
 
 <span style="color: red;">text</span>
 ```diff
- + Instructions to run
-```
++ Instructions to run
+
 --Download the repository as a zip file 
 --Extract the folder
+```
 
 ```diff
-@@ __Run_normal_code__
-```
+- __Run_normal_code__
+
 -- Enter following commands in terminal
 
 -- cd Normal_arindam
@@ -29,10 +30,11 @@
 -- Once all finish press ctrl+c
 
 Output log should be present in ./log/*
+```
 
 ```diff
-@@ __Run_dwt_code__
-```
+- __Run_dwt_code__
+
 -- Enter following commands in terminal
 
 -- cd DWT_pratyay
@@ -52,3 +54,4 @@ Output log should be present in ./log/*
 -- Once all finish press ctrl+c
 
 Output log should be present in ./log/*
+```

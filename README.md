@@ -1,57 +1,57 @@
 # Raspberry_pi_edge_ML
 
-<span style="color: red;">text</span>
-```diff
-+ Instructions to run
 
---Download the repository as a zip file 
---Extract the folder
+```diff
+@@ Instructions to run@@
+
++ Download the repository as a zip file 
++ Extract the folder
 ```
 
 ```diff
-- __Run_normal_code__
+@@ Run normal code@@
 
--- Enter following commands in terminal
+! Enter following commands in terminal
 
--- cd Normal_arindam
+! cd Normal_arindam
 
--- sudo chmod +x script.sh
+! sudo chmod +x script.sh
 
--- ./script.sh
+! ./script.sh
 
--- It will give print "Press pushbutton for predicting images"
+! It will give print "Press pushbutton for predicting images"
 
--- Press pushbutton connected to GPIO-15
+! Press pushbutton connected to GPIO-15
 
--- It will ask for prompt "Enter path of image directory where images are present:"
+! It will ask for prompt "Enter path of image directory where images are present:"
 
--- Give prompt input as ./test_orig
+! Give prompt input as ./test_orig
 
--- Once all finish press ctrl+c
+! Once all finish press ctrl+c
 
 Output log should be present in ./log/*
 ```
 
 ```diff
-- __Run_dwt_code__
+@@ Run dwt code@@
 
--- Enter following commands in terminal
+! Enter following commands in terminal
 
--- cd DWT_pratyay
+! cd DWT_pratyay
 
--- sudo chmod +x script.sh
+! sudo chmod +x script.sh
 
--- ./script.sh
+! ./script.sh
 
--- It will give print "Press pushbutton for predicting images"
+! It will give print "Press pushbutton for predicting images"
 
--- Press pushbutton connected to GPIO-15
+! Press pushbutton connected to GPIO-15
 
--- It will ask for prompt "Enter path of image directory where images are present:"
+! It will ask for prompt "Enter path of image directory where images are present:"
 
--- Give prompt input as ./test_orig
+! Give prompt input as ./test_orig
 
--- Once all finish press ctrl+c
+! Once all finish press ctrl+c
 
 Output log should be present in ./log/*
 ```

@@ -23,7 +23,7 @@ Clone this repository
 ```diff
 @@ Run normal code@@
 
-Enter following commands in terminal
+
 
 Go inside directory Normal_arindam
 
@@ -47,7 +47,7 @@ Output log should be present in ./log/*
 ```diff
 @@ Run dwt code@@
 
-Enter following commands in terminal
+
 
 Go inside directory DWT_pratyay
 

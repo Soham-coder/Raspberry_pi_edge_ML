@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo chmod +x rpi_button_push_normal_arindam.py
+sudo chmod +x rpi_button_push_normal.py
 
 if [ -d ./log ]; then
   # Take action if log DIR exists. #
@@ -8,4 +8,4 @@ if [ -d ./log ]; then
   mkdir -p log
 fi
 
-python3 rpi_button_push_normal_arindam.py | tee ./log/out.txt
+python3 rpi_button_push_normal.py | tee ./log/out.txt

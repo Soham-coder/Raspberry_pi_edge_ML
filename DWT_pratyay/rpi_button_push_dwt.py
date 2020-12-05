@@ -80,7 +80,7 @@ try:
             pic_list=os.listdir(path = input_image_dir)
             for image in pic_list:
                 input_image = input_image_dir + "/" + image
-                arindam_code_read_image_and_predict(input_image)  
+                pratyay_code_read_image_and_predict(input_image)  
         prev_state = current_state
 
 # Only when you press ctrl+c , this will be called

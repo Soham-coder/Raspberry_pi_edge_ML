@@ -5,7 +5,7 @@
 
 ! git --version
 
-If this fails with a error message
+If this fails with a error message install git ...
 
 ! sudo apt install git
 ```
@@ -94,4 +94,5 @@ Output log - ./log/out.txt
 - average_prediction_runtime.py - Parses the log file and calculates average prediction time
 - find_avg_test_image_size.sh - Calculates the average image size of test images in test image folder in bytes
 - find_model_size.sh - Calculates the Pretrained model size in weights folder
+- install_git.sh - Incase you want to install git in Linux-Ubuntu based system through apt package manager, use this
 ```

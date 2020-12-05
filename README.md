@@ -41,8 +41,9 @@ Give prompt input as ./test_orig
 
 Once all finish, press ctrl+c
 
-Output log - <a href="Normal_Arindam/log/out.txt">Normal_Arindam/log/out.txt</a>
+Output log - ./log/out.txt
 ```
+<a href="Normal_Arindam/log/out.txt">Normal_Arindam/log/out.txt</a>
 
 ```diff
 @@ Run dwt code@@

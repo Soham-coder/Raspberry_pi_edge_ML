@@ -45,6 +45,12 @@ Output log - ./log/out.txt
 ```
 <a href="Normal_arindam/log/out.txt">Arindam_log</a>
 
+
+
+
+
+
+
 ```diff
 @@ Run dwt code@@
 
@@ -66,5 +72,6 @@ Give prompt input as ./test_dwt
 
 Once all finish, press ctrl+c
 
-Output log should be present in ./log/*
+Output log - ./log/out.txt
 ```
+<a href="DWT_pratyay/log/out.txt">Pratyay_log</a>

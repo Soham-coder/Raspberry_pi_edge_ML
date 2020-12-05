@@ -10,16 +10,18 @@ If this fails with a error message
 ! sudo apt install git
 ```
 
+
 ```diff
 @@ Clone this repository@@
 
 ! git clone https://github.com/Soham-coder/Raspberry_pi_edge_ML.git
 ```
 
+
+
 ```diff
 @@ Instructions to run@@
 ```
-
 ```diff
 @@ Run normal code@@
 
@@ -46,6 +48,8 @@ Output log - ./log/out.txt
 <a href="Normal_arindam/log/out.txt">Arindam_log</a>
 ```diff
 + Average Prediction Time: 5.3895740906397505 Seconds
++ Average Size of test images - 24035 bytes
++ Pre-trained Model Size - 7255312 bytes 
 ```
 
 
@@ -80,4 +84,14 @@ Output log - ./log/out.txt
 <a href="DWT_pratyay/log/out.txt">Pratyay_log</a>
 ```diff
 + Average Prediction Time: 0.24476244866847993 Seconds
++ Average Size of test images - 5894 bytes
++ Pre-trained Model Size - 795552 bytes
+```
+
+```diff
+@@ Utility scripts@@
+
+- average_prediction_runtime.py - Parses the log file and calculates average prediction time
+- find_avg_test_image_size.sh - Calculates the average image size of test images in test image folder in bytes
+- find_model_size.sh - Calculates the Pretrained model size in weights folder
 ```

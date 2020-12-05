@@ -1,0 +1,2007 @@
+1.14.0
+2.2.4-tf
+All packages are imported
+Time for Loading the model 0.006258726119995117 Seconds
+Press pushbutton for predicting images
+Enter path of image directory where images are present:Entered image directory is :  ./test_dwt
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_120_t2.png
+Time for Reading the image 0.0035784244537353516 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.17218351364135742 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_046_flair.png
+Time for Reading the image 0.001008749008178711 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.22351455688476562 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_066_t1.png
+Time for Reading the image 0.001913309097290039 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.28078532218933105 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_064_t1.png
+Time for Reading the image 0.002577066421508789 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24747514724731445 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_065_t2.png
+Time for Reading the image 0.0030655860900878906 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.2575669288635254 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_121_t2.png
+Time for Reading the image 0.0029077529907226562 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.2450542449951172 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_105_flair.png
+Time for Reading the image 0.002576589584350586 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24856209754943848 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_099_t1ce.png
+Time for Reading the image 0.0029861927032470703 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24538064002990723 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_120_flair.png
+Time for Reading the image 0.002268552780151367 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24826812744140625 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_071_t1ce.png
+Time for Reading the image 0.0029883384704589844 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2516317367553711 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_067_flair.png
+Time for Reading the image 0.0024149417877197266 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2602078914642334 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_050_t2.png
+Time for Reading the image 0.0029456615447998047 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24884414672851562 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_083_t1ce.png
+Time for Reading the image 0.001964569091796875 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24862408638000488 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_092_t1ce.png
+Time for Reading the image 0.003126382827758789 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.11951327323913574 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_115_t2.png
+Time for Reading the image 0.002954721450805664 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.251739501953125 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_026_t1.png
+Time for Reading the image 0.002307415008544922 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.25273728370666504 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_070_t1.png
+Time for Reading the image 0.0021865367889404297 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24767112731933594 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_035_t1ce.png
+Time for Reading the image 0.002059459686279297 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2515711784362793 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_069_t1.png
+Time for Reading the image 0.0019392967224121094 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2561531066894531 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_049_t1.png
+Time for Reading the image 0.0025043487548828125 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2586228847503662 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_041_t1ce.png
+Time for Reading the image 0.002736806869506836 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.26222825050354004 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_099_t1.png
+Time for Reading the image 0.002134084701538086 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.26235365867614746 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_125_t2.png
+Time for Reading the image 0.004853487014770508 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.26218700408935547 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_028_flair.png
+Time for Reading the image 0.0022089481353759766 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2505683898925781 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_123_t1ce.png
+Time for Reading the image 0.0019359588623046875 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2578880786895752 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_074_flair.png
+Time for Reading the image 0.002835512161254883 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24707603454589844 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_052_t2.png
+Time for Reading the image 0.0033969879150390625 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.17434906959533691 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_070_t1ce.png
+Time for Reading the image 0.0009663105010986328 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.20270586013793945 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_114_t2.png
+Time for Reading the image 0.0031554698944091797 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24619555473327637 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_110_t1.png
+Time for Reading the image 0.002058744430541992 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2622199058532715 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_109_t2.png
+Time for Reading the image 0.0030324459075927734 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24754095077514648 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_076_t1.png
+Time for Reading the image 0.0019445419311523438 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24812006950378418 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_039_t1.png
+Time for Reading the image 0.002858400344848633 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2664608955383301 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_114_t1.png
+Time for Reading the image 0.002112865447998047 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.26677894592285156 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_058_t1ce.png
+Time for Reading the image 0.002118825912475586 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.25387072563171387 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_108_t2.png
+Time for Reading the image 0.0032842159271240234 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24603724479675293 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_028_t1ce.png
+Time for Reading the image 0.0029833316802978516 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2461259365081787 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_068_t2.png
+Time for Reading the image 0.001965761184692383 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.25981855392456055 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_049_t2.png
+Time for Reading the image 0.0031576156616210938 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.21832013130187988 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_075_t2.png
+Time for Reading the image 0.0009379386901855469 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.17345285415649414 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_088_t1.png
+Time for Reading the image 0.0020668506622314453 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2613976001739502 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_075_t1ce.png
+Time for Reading the image 0.002967357635498047 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.25217437744140625 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_069_t1ce.png
+Time for Reading the image 0.0022046566009521484 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24619269371032715 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_093_t1ce.png
+Time for Reading the image 0.003042459487915039 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.25762343406677246 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_121_flair.png
+Time for Reading the image 0.001984119415283203 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2529151439666748 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_086_flair.png
+Time for Reading the image 0.002195596694946289 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.25636744499206543 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_062_t1.png
+Time for Reading the image 0.0022735595703125 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24628376960754395 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_034_t1.png
+Time for Reading the image 0.0022573471069335938 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24715113639831543 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_075_t1.png
+Time for Reading the image 0.0024759769439697266 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.26120877265930176 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_125_t1ce.png
+Time for Reading the image 0.003003835678100586 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2514073848724365 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_037_t2.png
+Time for Reading the image 0.002938508987426758 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24934673309326172 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_109_t1ce.png
+Time for Reading the image 0.003242015838623047 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.16320419311523438 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_060_flair.png
+Time for Reading the image 0.0010814666748046875 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.21631860733032227 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_104_t1ce.png
+Time for Reading the image 0.0025076866149902344 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2467339038848877 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_092_t2.png
+Time for Reading the image 0.0030159950256347656 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.2472848892211914 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_038_t1.png
+Time for Reading the image 0.0021810531616210938 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24852657318115234 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_121_t1ce.png
+Time for Reading the image 0.0029404163360595703 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24730896949768066 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_096_flair.png
+Time for Reading the image 0.0026602745056152344 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.25330519676208496 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_112_t1ce.png
+Time for Reading the image 0.0029976367950439453 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 0.25536036491394043 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_060_t2.png
+Time for Reading the image 0.0029261112213134766 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24627161026000977 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_036_t1ce.png
+Time for Reading the image 0.0027294158935546875 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24737310409545898 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_119_t2.png
+Time for Reading the image 0.0030641555786132812 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24656295776367188 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_072_t1.png
+Time for Reading the image 0.0028848648071289062 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2510335445404053 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_033_flair.png
+Time for Reading the image 0.005965709686279297 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.25782179832458496 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_110_t2.png
+Time for Reading the image 0.0033295154571533203 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.16079401969909668 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_106_flair.png
+Time for Reading the image 0.0020384788513183594 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2552757263183594 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_042_t1ce.png
+Time for Reading the image 0.0028336048126220703 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.26453137397766113 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_072_t1ce.png
+Time for Reading the image 0.004531145095825195 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.246659517288208 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_091_t1.png
+Time for Reading the image 0.0023565292358398438 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.26021695137023926 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_044_t1ce.png
+Time for Reading the image 0.002886056900024414 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2506277561187744 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_122_t1.png
+Time for Reading the image 0.0019261837005615234 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24964499473571777 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_077_t1ce.png
+Time for Reading the image 0.0027780532836914062 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2567257881164551 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_078_t1.png
+Time for Reading the image 0.0022139549255371094 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2526540756225586 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_047_t2.png
+Time for Reading the image 0.0030295848846435547 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.2663731575012207 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_045_t1ce.png
+Time for Reading the image 0.0025691986083984375 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24974322319030762 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_097_t1.png
+Time for Reading the image 0.0025556087493896484 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.25192832946777344 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_113_t1ce.png
+Time for Reading the image 0.002994060516357422 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2500879764556885 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_125_t1.png
+Time for Reading the image 0.0021619796752929688 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2333066463470459 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_066_flair.png
+Time for Reading the image 0.0013766288757324219 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.14228582382202148 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_102_t1.png
+Time for Reading the image 0.0019752979278564453 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2468557357788086 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_108_t1.png
+Time for Reading the image 0.0018818378448486328 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2449934482574463 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_103_flair.png
+Time for Reading the image 0.0020897388458251953 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2557373046875 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_028_t2.png
+Time for Reading the image 0.003007173538208008 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24401021003723145 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_030_t1.png
+Time for Reading the image 0.0019121170043945312 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2458186149597168 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_119_t1ce.png
+Time for Reading the image 0.002360105514526367 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24951815605163574 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_073_t1.png
+Time for Reading the image 0.002160310745239258 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24707794189453125 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_117_t1ce.png
+Time for Reading the image 0.0025348663330078125 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2605736255645752 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_050_t1.png
+Time for Reading the image 0.0021076202392578125 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.25875353813171387 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_043_flair.png
+Time for Reading the image 0.0030167102813720703 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.25286006927490234 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_087_t1ce.png
+Time for Reading the image 0.002725362777709961 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.25922584533691406 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_095_flair.png
+Time for Reading the image 0.002857208251953125 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.20664072036743164 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_040_t1.png
+Time for Reading the image 0.0010228157043457031 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.18149423599243164 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_084_flair.png
+Time for Reading the image 0.0020036697387695312 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2480461597442627 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_034_flair.png
+Time for Reading the image 0.0028564929962158203 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.25461769104003906 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_051_flair.png
+Time for Reading the image 0.0028188228607177734 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24369120597839355 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_086_t2.png
+Time for Reading the image 0.002885103225708008 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24727869033813477 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_056_t1ce.png
+Time for Reading the image 0.002724170684814453 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2523965835571289 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_033_t1.png
+Time for Reading the image 0.003533601760864258 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.28434300422668457 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_100_t2.png
+Time for Reading the image 0.003075122833251953 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.25028347969055176 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_053_t1.png
+Time for Reading the image 0.002321481704711914 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.28226232528686523 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_112_t2.png
+Time for Reading the image 0.003271818161010742 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.2489769458770752 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_096_t2.png
+Time for Reading the image 0.002861499786376953 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.25954556465148926 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_043_t1ce.png
+Time for Reading the image 0.00391077995300293 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2449944019317627 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_052_t1.png
+Time for Reading the image 0.002424955368041992 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.1771221160888672 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_079_t1ce.png
+Time for Reading the image 0.0014827251434326172 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.17302870750427246 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_083_flair.png
+Time for Reading the image 0.002957582473754883 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24589872360229492 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_055_t1ce.png
+Time for Reading the image 0.0031578540802001953 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2562084197998047 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_084_t1ce.png
+Time for Reading the image 0.0029687881469726562 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24794602394104004 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_080_t2.png
+Time for Reading the image 0.0031027793884277344 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24430418014526367 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_070_flair.png
+Time for Reading the image 0.002398967742919922 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2601308822631836 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_083_t2.png
+Time for Reading the image 0.0019598007202148438 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.2599925994873047 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_090_t2.png
+Time for Reading the image 0.002477407455444336 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.2525293827056885 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_030_flair.png
+Time for Reading the image 0.003063201904296875 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2607154846191406 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_085_t1.png
+Time for Reading the image 0.002407073974609375 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.259598970413208 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_085_t1ce.png
+Time for Reading the image 0.0030336380004882812 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.26072120666503906 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_089_t2.png
+Time for Reading the image 0.002843141555786133 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.2574641704559326 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_066_t2.png
+Time for Reading the image 0.0026712417602539062 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.15176773071289062 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_124_t2.png
+Time for Reading the image 0.0014247894287109375 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.2342221736907959 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_113_t1.png
+Time for Reading the image 0.0021927356719970703 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24712347984313965 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_124_flair.png
+Time for Reading the image 0.0025644302368164062 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.25913095474243164 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_031_t1ce.png
+Time for Reading the image 0.004271745681762695 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2584359645843506 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_043_t2.png
+Time for Reading the image 0.002053976058959961 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.25669384002685547 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_060_t1ce.png
+Time for Reading the image 0.0024929046630859375 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2517845630645752 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_076_flair.png
+Time for Reading the image 0.002835988998413086 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2534468173980713 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_053_flair.png
+Time for Reading the image 0.0028030872344970703 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24814057350158691 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_074_t2.png
+Time for Reading the image 0.002521991729736328 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.26201915740966797 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_036_t1.png
+Time for Reading the image 0.0026307106018066406 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24457907676696777 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_042_t1.png
+Time for Reading the image 0.0019750595092773438 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24438214302062988 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_052_flair.png
+Time for Reading the image 0.0030508041381835938 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2450418472290039 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_093_t1.png
+Time for Reading the image 0.0024025440216064453 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.1451117992401123 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_094_t1.png
+Time for Reading the image 0.001990795135498047 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.26072049140930176 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_088_flair.png
+Time for Reading the image 0.002414703369140625 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.25060129165649414 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_026_flair.png
+Time for Reading the image 0.001873016357421875 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24536871910095215 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_089_t1ce.png
+Time for Reading the image 0.0025267601013183594 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.26347994804382324 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_080_t1.png
+Time for Reading the image 0.0019378662109375 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.26177072525024414 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_122_t2.png
+Time for Reading the image 0.003041982650756836 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24770474433898926 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_098_flair.png
+Time for Reading the image 0.0029489994049072266 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2462158203125 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_122_flair.png
+Time for Reading the image 0.002803325653076172 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.25233030319213867 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_047_t1.png
+Time for Reading the image 0.0022509098052978516 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24999594688415527 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_083_t1.png
+Time for Reading the image 0.0018687248229980469 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24494242668151855 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_078_t2.png
+Time for Reading the image 0.0030775070190429688 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24470210075378418 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_067_t1.png
+Time for Reading the image 0.0022661685943603516 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.25031614303588867 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_056_t2.png
+Time for Reading the image 0.002879619598388672 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.23734784126281738 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_046_t1.png
+Time for Reading the image 0.0009686946868896484 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.1378800868988037 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_071_t1.png
+Time for Reading the image 0.002426624298095703 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2529010772705078 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_096_t1.png
+Time for Reading the image 0.0018944740295410156 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24798059463500977 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_061_t2.png
+Time for Reading the image 0.003136157989501953 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24760842323303223 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_068_flair.png
+Time for Reading the image 0.0020902156829833984 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24513792991638184 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_031_t1.png
+Time for Reading the image 0.0019307136535644531 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24424338340759277 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_088_t1ce.png
+Time for Reading the image 0.002771139144897461 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 0.2436835765838623 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_090_flair.png
+Time for Reading the image 0.002347230911254883 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2539489269256592 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_047_flair.png
+Time for Reading the image 0.002960205078125 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24742913246154785 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_053_t2.png
+Time for Reading the image 0.0028858184814453125 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24439215660095215 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_073_t2.png
+Time for Reading the image 0.0030679702758789062 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24634552001953125 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_062_t2.png
+Time for Reading the image 0.0029082298278808594 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.2674698829650879 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_074_t1.png
+Time for Reading the image 0.0019195079803466797 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.25237083435058594 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_034_t1ce.png
+Time for Reading the image 0.002377033233642578 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.1900320053100586 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_111_t1ce.png
+Time for Reading the image 0.0013928413391113281 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.19525671005249023 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_039_t2.png
+Time for Reading the image 0.0027570724487304688 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24517178535461426 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_124_t1ce.png
+Time for Reading the image 0.0019981861114501953 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.25261354446411133 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_069_flair.png
+Time for Reading the image 0.0019707679748535156 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2507975101470947 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_055_flair.png
+Time for Reading the image 0.002948760986328125 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2652010917663574 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_073_t1ce.png
+Time for Reading the image 0.002555370330810547 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.25220799446105957 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_078_flair.png
+Time for Reading the image 0.0020508766174316406 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2537555694580078 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_071_t2.png
+Time for Reading the image 0.0028443336486816406 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24635052680969238 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_040_flair.png
+Time for Reading the image 0.0027894973754882812 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24786376953125 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_061_flair.png
+Time for Reading the image 0.003810882568359375 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.25045108795166016 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_106_t2.png
+Time for Reading the image 0.003017902374267578 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.2456192970275879 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_051_t2.png
+Time for Reading the image 0.003049612045288086 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24654817581176758 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_032_t1ce.png
+Time for Reading the image 0.0021429061889648438 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.15894865989685059 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_035_t1.png
+Time for Reading the image 0.0009748935699462891 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.22015810012817383 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_028_t1.png
+Time for Reading the image 0.0019855499267578125 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2504847049713135 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_037_t1.png
+Time for Reading the image 0.002221345901489258 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.25280213356018066 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_117_t2.png
+Time for Reading the image 0.003044605255126953 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24588871002197266 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_065_t1ce.png
+Time for Reading the image 0.0029191970825195312 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24579167366027832 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_082_t1ce.png
+Time for Reading the image 0.0022716522216796875 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24336552619934082 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_065_flair.png
+Time for Reading the image 0.002331972122192383 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.25872111320495605 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_040_t2.png
+Time for Reading the image 0.0029675960540771484 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24794793128967285 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_119_t1.png
+Time for Reading the image 0.0019314289093017578 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.25273919105529785 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_097_t2.png
+Time for Reading the image 0.003133058547973633 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24406790733337402 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_115_t1.png
+Time for Reading the image 0.0020470619201660156 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24439549446105957 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_115_t1ce.png
+Time for Reading the image 0.0031392574310302734 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24442148208618164 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_077_t1.png
+Time for Reading the image 0.002105712890625 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.14295101165771484 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_116_flair.png
+Time for Reading the image 0.0013408660888671875 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.22911453247070312 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_056_flair.png
+Time for Reading the image 0.0021789073944091797 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.25799560546875 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_071_flair.png
+Time for Reading the image 0.003265380859375 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2617177963256836 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_102_flair.png
+Time for Reading the image 0.002231597900390625 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2609224319458008 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_070_t2.png
+Time for Reading the image 0.0022172927856445312 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.25998950004577637 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_112_flair.png
+Time for Reading the image 0.0024924278259277344 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.25991010665893555 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_039_flair.png
+Time for Reading the image 0.0030410289764404297 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2460627555847168 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_031_flair.png
+Time for Reading the image 0.0023899078369140625 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24931883811950684 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_035_t2.png
+Time for Reading the image 0.0030019283294677734 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.2494821548461914 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_041_t2.png
+Time for Reading the image 0.0029833316802978516 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24683499336242676 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_092_t1.png
+Time for Reading the image 0.0022840499877929688 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.27086973190307617 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_041_t1.png
+Time for Reading the image 0.002084970474243164 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2551848888397217 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_065_t1.png
+Time for Reading the image 0.0019855499267578125 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.20537185668945312 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_058_t1.png
+Time for Reading the image 0.0009684562683105469 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.18480730056762695 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_089_flair.png
+Time for Reading the image 0.002151966094970703 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24799680709838867 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_101_t1ce.png
+Time for Reading the image 0.0021779537200927734 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24370622634887695 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_117_t1.png
+Time for Reading the image 0.00197601318359375 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24633574485778809 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_058_flair.png
+Time for Reading the image 0.0026504993438720703 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24486184120178223 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_103_t2.png
+Time for Reading the image 0.0028917789459228516 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24456214904785156 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_044_t1.png
+Time for Reading the image 0.00232696533203125 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24641871452331543 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_067_t1ce.png
+Time for Reading the image 0.0027151107788085938 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24885272979736328 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_059_t1ce.png
+Time for Reading the image 0.002744913101196289 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.260744571685791 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_081_t2.png
+Time for Reading the image 0.0028748512268066406 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.2767031192779541 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_108_t1ce.png
+Time for Reading the image 0.0026459693908691406 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.246995210647583 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_106_t1.png
+Time for Reading the image 0.0018794536590576172 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24589037895202637 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_079_flair.png
+Time for Reading the image 0.003378629684448242 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2630629539489746 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_029_t1ce.png
+Time for Reading the image 0.0020203590393066406 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.1359877586364746 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_048_t1.png
+Time for Reading the image 0.0009489059448242188 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24692606925964355 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_055_t2.png
+Time for Reading the image 0.0027756690979003906 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.2481391429901123 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_072_flair.png
+Time for Reading the image 0.0023338794708251953 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2620668411254883 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_099_t2.png
+Time for Reading the image 0.003011465072631836 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24745440483093262 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_091_t1ce.png
+Time for Reading the image 0.003076314926147461 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.25873470306396484 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_108_flair.png
+Time for Reading the image 0.002980947494506836 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2612636089324951 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_027_flair.png
+Time for Reading the image 0.002375364303588867 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2583794593811035 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_060_t1.png
+Time for Reading the image 0.0020558834075927734 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.257723331451416 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_068_t1.png
+Time for Reading the image 0.002071380615234375 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2641136646270752 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_098_t1.png
+Time for Reading the image 0.002093076705932617 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.25368642807006836 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_104_t1.png
+Time for Reading the image 0.00213623046875 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2540125846862793 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_053_t1ce.png
+Time for Reading the image 0.00318145751953125 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.25891995429992676 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_123_flair.png
+Time for Reading the image 0.002318143844604492 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.21378016471862793 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_030_t2.png
+Time for Reading the image 0.0020422935485839844 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.12119889259338379 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_027_t1.png
+Time for Reading the image 0.0009770393371582031 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.15430021286010742 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_050_flair.png
+Time for Reading the image 0.002847433090209961 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2577331066131592 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_063_t1ce.png
+Time for Reading the image 0.0040624141693115234 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.25565123558044434 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_054_t2.png
+Time for Reading the image 0.003283262252807617 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.26386022567749023 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_049_flair.png
+Time for Reading the image 0.0027475357055664062 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.25939416885375977 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_109_t1.png
+Time for Reading the image 0.0018770694732666016 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.25124335289001465 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_125_flair.png
+Time for Reading the image 0.0022504329681396484 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2475123405456543 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_102_t2.png
+Time for Reading the image 0.0020580291748046875 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.2514224052429199 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_056_t1.png
+Time for Reading the image 0.002465963363647461 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.26326942443847656 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_122_t1ce.png
+Time for Reading the image 0.0033469200134277344 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.25699877738952637 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_123_t2.png
+Time for Reading the image 0.002886533737182617 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24633121490478516 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_077_flair.png
+Time for Reading the image 0.0029222965240478516 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.25855207443237305 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_085_flair.png
+Time for Reading the image 0.002250194549560547 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24716448783874512 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_059_t1.png
+Time for Reading the image 0.0019421577453613281 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.1385335922241211 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_092_flair.png
+Time for Reading the image 0.001032114028930664 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.23143672943115234 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_035_flair.png
+Time for Reading the image 0.002718210220336914 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2500631809234619 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_100_t1ce.png
+Time for Reading the image 0.00279998779296875 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24731969833374023 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_078_t1ce.png
+Time for Reading the image 0.002577543258666992 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24769973754882812 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_107_flair.png
+Time for Reading the image 0.002366781234741211 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24815869331359863 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_120_t1ce.png
+Time for Reading the image 0.0030062198638916016 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.247894287109375 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_097_flair.png
+Time for Reading the image 0.0027608871459960938 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24662137031555176 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_117_flair.png
+Time for Reading the image 0.002103090286254883 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.27669715881347656 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_052_t1ce.png
+Time for Reading the image 0.0031707286834716797 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 0.2611203193664551 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_026_t2.png
+Time for Reading the image 0.002917051315307617 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.2827746868133545 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_057_t2.png
+Time for Reading the image 0.004389762878417969 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.27092432975769043 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_110_t1ce.png
+Time for Reading the image 0.003359556198120117 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2184603214263916 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_048_t2.png
+Time for Reading the image 0.0013995170593261719 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.17801475524902344 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_075_flair.png
+Time for Reading the image 0.004626750946044922 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2599918842315674 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_042_t2.png
+Time for Reading the image 0.002961874008178711 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.2532675266265869 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_098_t1ce.png
+Time for Reading the image 0.0028586387634277344 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24971771240234375 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_116_t1ce.png
+Time for Reading the image 0.002226591110229492 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.25874829292297363 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_101_t2.png
+Time for Reading the image 0.0024437904357910156 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.27054810523986816 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_051_t1ce.png
+Time for Reading the image 0.0028505325317382812 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.27596163749694824 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_114_t1ce.png
+Time for Reading the image 0.002695798873901367 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.26458024978637695 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_062_flair.png
+Time for Reading the image 0.003712892532348633 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.26543521881103516 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_121_t1.png
+Time for Reading the image 0.002068758010864258 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.26569700241088867 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_088_t2.png
+Time for Reading the image 0.0032644271850585938 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.25408124923706055 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_064_t2.png
+Time for Reading the image 0.0020325183868408203 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.26892709732055664 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_098_t2.png
+Time for Reading the image 0.0027997493743896484 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.22385859489440918 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_100_t1.png
+Time for Reading the image 0.001519918441772461 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.1811506748199463 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_101_t1.png
+Time for Reading the image 0.0019218921661376953 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24932503700256348 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_066_t1ce.png
+Time for Reading the image 0.003047466278076172 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2614872455596924 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_046_t1ce.png
+Time for Reading the image 0.0029630661010742188 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.25203824043273926 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_061_t1.png
+Time for Reading the image 0.0018944740295410156 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2718849182128906 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_095_t2.png
+Time for Reading the image 0.002160310745239258 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.2745859622955322 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_104_flair.png
+Time for Reading the image 0.002044200897216797 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.27111339569091797 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_109_flair.png
+Time for Reading the image 0.00398564338684082 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2675440311431885 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_080_t1ce.png
+Time for Reading the image 0.002900838851928711 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24950885772705078 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_027_t1ce.png
+Time for Reading the image 0.002230405807495117 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2505514621734619 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_032_t1.png
+Time for Reading the image 0.0019016265869140625 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.25072264671325684 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_100_flair.png
+Time for Reading the image 0.002606630325317383 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2551767826080322 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_074_t1ce.png
+Time for Reading the image 0.0029850006103515625 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2335374355316162 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_082_t2.png
+Time for Reading the image 0.0012786388397216797 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.14666152000427246 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_055_t1.png
+Time for Reading the image 0.0022008419036865234 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2549777030944824 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_079_t1.png
+Time for Reading the image 0.0025179386138916016 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.26270103454589844 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_084_t1.png
+Time for Reading the image 0.0028247833251953125 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2478044033050537 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_116_t1.png
+Time for Reading the image 0.0026581287384033203 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2543001174926758 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_118_t1.png
+Time for Reading the image 0.001968860626220703 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2571251392364502 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_029_t1.png
+Time for Reading the image 0.002118349075317383 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.30165719985961914 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_037_t1ce.png
+Time for Reading the image 0.002382516860961914 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2778446674346924 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_040_t1ce.png
+Time for Reading the image 0.0029990673065185547 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2632417678833008 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_039_t1ce.png
+Time for Reading the image 0.0025246143341064453 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.26136231422424316 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_054_t1.png
+Time for Reading the image 0.0028154850006103516 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.25229811668395996 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_110_flair.png
+Time for Reading the image 0.0023865699768066406 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2515692710876465 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_103_t1ce.png
+Time for Reading the image 0.0027685165405273438 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2617056369781494 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_044_t2.png
+Time for Reading the image 0.0014765262603759766 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.17685770988464355 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_033_t1ce.png
+Time for Reading the image 0.004339933395385742 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.26569437980651855 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_081_flair.png
+Time for Reading the image 0.002245664596557617 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24915623664855957 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_073_flair.png
+Time for Reading the image 0.0020911693572998047 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.27077245712280273 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_107_t2.png
+Time for Reading the image 0.003065347671508789 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.268932580947876 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_057_t1.png
+Time for Reading the image 0.0019021034240722656 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2693922519683838 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_119_flair.png
+Time for Reading the image 0.002007007598876953 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24785661697387695 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_029_t2.png
+Time for Reading the image 0.0035963058471679688 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.25290679931640625 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_038_flair.png
+Time for Reading the image 0.0029120445251464844 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.25361084938049316 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_054_t1ce.png
+Time for Reading the image 0.002796649932861328 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.25194311141967773 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_081_t1.png
+Time for Reading the image 0.002443552017211914 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.26694655418395996 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_079_t2.png
+Time for Reading the image 0.0019278526306152344 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24369597434997559 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_034_t2.png
+Time for Reading the image 0.00279998779296875 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.2454841136932373 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_123_t1.png
+Time for Reading the image 0.0009853839874267578 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.12544918060302734 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_045_flair.png
+Time for Reading the image 0.0028846263885498047 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24830007553100586 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_095_t1ce.png
+Time for Reading the image 0.0032279491424560547 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2504904270172119 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_082_t1.png
+Time for Reading the image 0.0018892288208007812 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2467343807220459 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_084_t2.png
+Time for Reading the image 0.003087282180786133 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24574494361877441 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_050_t1ce.png
+Time for Reading the image 0.0028333663940429688 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24559783935546875 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_087_t1.png
+Time for Reading the image 0.002371072769165039 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24515724182128906 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_094_flair.png
+Time for Reading the image 0.0022461414337158203 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24755096435546875 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_051_t1.png
+Time for Reading the image 0.003662586212158203 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2514309883117676 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_048_flair.png
+Time for Reading the image 0.0029036998748779297 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2500138282775879 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_111_flair.png
+Time for Reading the image 0.002959728240966797 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.26623034477233887 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_093_t2.png
+Time for Reading the image 0.0032339096069335938 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24690985679626465 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_112_t1.png
+Time for Reading the image 0.0018999576568603516 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24519133567810059 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_091_flair.png
+Time for Reading the image 0.002014636993408203 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24640107154846191 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_058_t2.png
+Time for Reading the image 0.002732992172241211 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24499726295471191 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_029_flair.png
+Time for Reading the image 0.0022516250610351562 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2448415756225586 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_087_flair.png
+Time for Reading the image 0.002044677734375 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.23690152168273926 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_095_t1.png
+Time for Reading the image 0.0010445117950439453 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.1456284523010254 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_041_flair.png
+Time for Reading the image 0.0021097660064697266 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2464432716369629 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_057_flair.png
+Time for Reading the image 0.0021343231201171875 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.26114487648010254 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_113_t2.png
+Time for Reading the image 0.003179311752319336 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.272824764251709 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_118_t1ce.png
+Time for Reading the image 0.0029931068420410156 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2541022300720215 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_116_t2.png
+Time for Reading the image 0.003302335739135742 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.28277134895324707 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_090_t1.png
+Time for Reading the image 0.003408193588256836 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24872231483459473 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_063_t1.png
+Time for Reading the image 0.0022897720336914062 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24803543090820312 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_048_t1ce.png
+Time for Reading the image 0.0028069019317626953 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24953079223632812 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_093_flair.png
+Time for Reading the image 0.002936840057373047 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2473137378692627 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_030_t1ce.png
+Time for Reading the image 0.0027570724487304688 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24950885772705078 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_076_t2.png
+Time for Reading the image 0.0018568038940429688 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.28614163398742676 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_076_t1ce.png
+Time for Reading the image 0.0021338462829589844 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24962711334228516 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_036_flair.png
+Time for Reading the image 0.002860546112060547 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.1640796661376953 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_044_flair.png
+Time for Reading the image 0.0024344921112060547 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2661287784576416 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_045_t1.png
+Time for Reading the image 0.002096891403198242 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2706921100616455 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_105_t1.png
+Time for Reading the image 0.0022306442260742188 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2539100646972656 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_059_t2.png
+Time for Reading the image 0.00315093994140625 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.260467529296875 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_046_t2.png
+Time for Reading the image 0.002660989761352539 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2512378692626953 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_111_t1.png
+Time for Reading the image 0.0018856525421142578 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.26781320571899414 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_059_flair.png
+Time for Reading the image 0.0022115707397460938 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2614724636077881 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_054_flair.png
+Time for Reading the image 0.003051280975341797 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.25264763832092285 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_099_flair.png
+Time for Reading the image 0.0026743412017822266 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2597343921661377 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_085_t2.png
+Time for Reading the image 0.0029561519622802734 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24623322486877441 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_069_t2.png
+Time for Reading the image 0.0018608570098876953 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.246659517288208 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_113_flair.png
+Time for Reading the image 0.002860546112060547 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24670982360839844 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_047_t1ce.png
+Time for Reading the image 0.002177000045776367 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.253173828125 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_063_flair.png
+Time for Reading the image 0.0026464462280273438 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24725985527038574 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_094_t1ce.png
+Time for Reading the image 0.002476930618286133 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24620604515075684 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_072_t2.png
+Time for Reading the image 0.0031948089599609375 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.26042866706848145 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_120_t1.png
+Time for Reading the image 0.002059459686279297 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.25995326042175293 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_027_t2.png
+Time for Reading the image 0.0038611888885498047 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24654054641723633 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_107_t1.png
+Time for Reading the image 0.0019915103912353516 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.25389695167541504 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_082_flair.png
+Time for Reading the image 0.002779245376586914 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.26064205169677734 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_026_t1ce.png
+Time for Reading the image 0.002779722213745117 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.2607240676879883 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_118_flair.png
+Time for Reading the image 0.0029757022857666016 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2068796157836914 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_081_t1ce.png
+Time for Reading the image 0.001316070556640625 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.1983482837677002 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_032_flair.png
+Time for Reading the image 0.0021467208862304688 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.26949453353881836 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_036_t2.png
+Time for Reading the image 0.0019865036010742188 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.25759172439575195 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_038_t2.png
+Time for Reading the image 0.0031769275665283203 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.25447750091552734 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_049_t1ce.png
+Time for Reading the image 0.0033445358276367188 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2527339458465576 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_080_flair.png
+Time for Reading the image 0.002450704574584961 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24831676483154297 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_045_t2.png
+Time for Reading the image 0.0025610923767089844 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24576210975646973 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_061_t1ce.png
+Time for Reading the image 0.0029594898223876953 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.25507426261901855 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_115_flair.png
+Time for Reading the image 0.0027823448181152344 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.25090861320495605 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_124_t1.png
+Time for Reading the image 0.0021162033081054688 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.25003910064697266 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_090_t1ce.png
+Time for Reading the image 0.002221822738647461 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.27041125297546387 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_067_t2.png
+Time for Reading the image 0.0018990039825439453 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.2720520496368408 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_031_t2.png
+Time for Reading the image 0.0033087730407714844 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.13002943992614746 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_105_t2.png
+Time for Reading the image 0.0023255348205566406 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24808669090270996 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_037_flair.png
+Time for Reading the image 0.0020904541015625 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24800610542297363 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_042_flair.png
+Time for Reading the image 0.0020055770874023438 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24768853187561035 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_103_t1.png
+Time for Reading the image 0.001856088638305664 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.256458044052124 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_064_flair.png
+Time for Reading the image 0.0022916793823242188 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24602580070495605 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_087_t2.png
+Time for Reading the image 0.002966642379760742 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24537062644958496 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_089_t1.png
+Time for Reading the image 0.0020148754119873047 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24558544158935547 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_101_flair.png
+Time for Reading the image 0.0024459362030029297 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24910616874694824 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_096_t1ce.png
+Time for Reading the image 0.0026476383209228516 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24505376815795898 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_118_t2.png
+Time for Reading the image 0.002885103225708008 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.25092291831970215 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_091_t2.png
+Time for Reading the image 0.002991199493408203 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24902868270874023 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_105_t1ce.png
+Time for Reading the image 0.0028345584869384766 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24487686157226562 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_107_t1ce.png
+Time for Reading the image 0.003167390823364258 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.22416377067565918 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_111_t2.png
+Time for Reading the image 0.001491546630859375 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.15500211715698242 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_106_t1ce.png
+Time for Reading the image 0.0037872791290283203 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.26250529289245605 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_104_t2.png
+Time for Reading the image 0.003206968307495117 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.2639942169189453 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_064_t1ce.png
+Time for Reading the image 0.002299785614013672 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.25081515312194824 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_062_t1ce.png
+Time for Reading the image 0.0027313232421875 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2706267833709717 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_032_t2.png
+Time for Reading the image 0.0030841827392578125 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.2449202537536621 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_057_t1ce.png
+Time for Reading the image 0.0042057037353515625 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.2906210422515869 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_033_t2.png
+Time for Reading the image 0.0027091503143310547 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24837255477905273 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_063_t2.png
+Time for Reading the image 0.0020973682403564453 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.24499726295471191 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_097_t1ce.png
+Time for Reading the image 0.0031032562255859375 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24462270736694336 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_086_t1.png
+Time for Reading the image 0.0020723342895507812 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.24445271492004395 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_102_t1ce.png
+Time for Reading the image 0.0029163360595703125 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 0.24499154090881348 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_077_t2.png
+Time for Reading the image 0.0019106864929199219 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.25423693656921387 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_068_t1ce.png
+Time for Reading the image 0.0029954910278320312 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.1317446231842041 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_086_t1ce.png
+Time for Reading the image 0.0013773441314697266 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.23925304412841797 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_043_t1.png
+Time for Reading the image 0.0029668807983398438 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.25334811210632324 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_094_t2.png
+Time for Reading the image 0.0028600692749023438 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 0.2514321804046631 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_114_flair.png
+Time for Reading the image 0.002454042434692383 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 0.24875545501708984 Seconds
+=======================================
+Image to be predicted is :  ./test_dwt/BraTS20_Validation_038_t1ce.png
+Time for Reading the image 0.002829313278198242 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 0.26084232330322266 Seconds
+=======================================
+Enter path of image directory where images are present:

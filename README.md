@@ -44,8 +44,9 @@ Once all finish, press ctrl+c
 Output log - ./log/out.txt
 ```
 <a href="Normal_arindam/log/out.txt">Arindam_log</a>
+```diff
 @@ Average Prediction Time: 5.3895740906397505 Seconds@@
-
+```
 
 
 
@@ -77,5 +78,6 @@ Once all finish, press ctrl+c
 Output log - ./log/out.txt
 ```
 <a href="DWT_pratyay/log/out.txt">Pratyay_log</a>
-
+```diff
 @@ Average Prediction Time: 0.24476244866847993 Seconds@@
+```

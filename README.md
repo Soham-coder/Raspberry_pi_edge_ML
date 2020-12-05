@@ -41,7 +41,7 @@ Give prompt input as ./test_orig
 
 Once all finish, press ctrl+c
 
-Output log - [log](Normal_arindam/log/out.txt)
+Output log - [a relative link](Normal_arindam/log/out.txt)
 ```
 
 ```diff

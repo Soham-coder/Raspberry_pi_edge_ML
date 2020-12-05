@@ -41,7 +41,7 @@ Give prompt input as ./test_orig
 
 Once all finish, press ctrl+c
 
-Output log - [log](log/out.txt)
+Output log - [log](Normal_Arindam/log/out.txt)
 ```
 
 ```diff

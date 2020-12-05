@@ -43,7 +43,7 @@ Once all finish, press ctrl+c
 
 Output log - ./log/out.txt
 ```
-<a href="Normal_Arindam/log/out.txt">Normal_Arindam/log/out.txt</a>
+<a href="Arindam_log">Normal_arindam/log/out.txt</a>
 
 ```diff
 @@ Run dwt code@@

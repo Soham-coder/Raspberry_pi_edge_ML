@@ -41,7 +41,7 @@ Give prompt input as ./test_orig
 
 Once all finish, press ctrl+c
 
-Output log should be present in ./log/*
+Output log should be present in [./log/out.txt](./log/out.txt)
 ```
 
 ```diff

@@ -1,4 +1,4 @@
-# Raspberry_pi_edge_ML
+# Brain_cancer_detection_on_Raspberry_Pi
 
 ```diff
 @@ First check whether git is installed in Rpi3b+@@

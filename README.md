@@ -41,7 +41,7 @@ It will ask for prompt "Enter path of image directory where images are present:"
 
 Give prompt input as ./test_orig
 
-Don't press pushbutton until current prediction operation is finished, else it will ask for next prompt.
+- Don't press pushbutton until current prediction operation is finished, else it will ask for next prompt.@@
 
 Once all finish, press ctrl+c
 
@@ -79,7 +79,7 @@ It will ask for prompt "Enter path of image directory where images are present:"
 
 Give prompt input as ./test_dwt
 
-Don't press pushbutton until current prediction operation is finished, else it will ask for next prompt.
+- Don't press pushbutton until current prediction operation is finished, else it will ask for next prompt.@@
 
 Once all finish, press ctrl+c
 
@@ -91,6 +91,35 @@ Output log - ./log/out.txt
 + Average Size of test images - 5894 bytes
 + Pre-trained Model Size - 795552 bytes
 ```
+
+
+
+```diff
+@@ Run vgg16 code@@
+
+
+
+Go inside directory VGG16_pratyay
+
+! sudo chmod +x script_vgg16.sh
+
+! ./script_vgg16.sh
+
+It will give print "Press pushbutton for predicting images"
+
+Press pushbutton connected to GPIO-15
+
+It will ask for prompt "Enter path of image directory where images are present:"
+
+Give prompt input as ./test_orig
+
+- Don't press pushbutton until current prediction operation is finished, else it will ask for next prompt.@@
+
+Once all finish, press ctrl+c
+
+Output log - ./log/out.txt
+```
+
 
 ```diff
 @@ Utility scripts@@

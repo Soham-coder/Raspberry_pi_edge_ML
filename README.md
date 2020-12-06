@@ -41,7 +41,7 @@ It will ask for prompt "Enter path of image directory where images are present:"
 
 Give prompt input as ./test_orig
 
-- Don't press pushbutton until current prediction operation is finished, else it will ask for next prompt.@@
+- Note: Don't press pushbutton until current prediction operation is finished, else it will ask for next prompt
 
 Once all finish, press ctrl+c
 
@@ -79,7 +79,7 @@ It will ask for prompt "Enter path of image directory where images are present:"
 
 Give prompt input as ./test_dwt
 
-- Don't press pushbutton until current prediction operation is finished, else it will ask for next prompt.@@
+- Note: Don't press pushbutton until current prediction operation is finished, else it will ask for next prompt
 
 Once all finish, press ctrl+c
 
@@ -113,7 +113,7 @@ It will ask for prompt "Enter path of image directory where images are present:"
 
 Give prompt input as ./test_orig
 
-@@ - Don't press pushbutton until current prediction operation is finished, else it will ask for next prompt.@@
+- Note: Don't press pushbutton until current prediction operation is finished, else it will ask for next prompt
 
 Once all finish, press ctrl+c
 

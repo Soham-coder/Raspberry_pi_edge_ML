@@ -1,6 +1,5 @@
 text_file = "./log/out.txt"
 keyword = "Time for Predicting the result"
-keyword2 = " Seconds"
 time_list = []
 
 file = open(text_file, 'r')

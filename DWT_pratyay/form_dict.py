@@ -11,5 +11,4 @@ for image in pic_list:
     category_list.append(str(category))
     #print(image_list_new)
 dictionary = dict(zip(image_list_new, category_list))
-print(dictionary)   
-    
+print(dictionary)

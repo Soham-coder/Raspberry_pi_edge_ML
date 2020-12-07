@@ -119,7 +119,12 @@ Once all finish, press ctrl+c
 
 Output log - ./log/out.txt
 ```
-
+<a href="VGG16_pratyay/log/out.txt">VGG16_log</a>
+```diff
++ Average Prediction Time: 30.64683867924249 Seconds
++ Average Size of test images - 24035 bytes
++ Pre-trained Model Size - 18143072 bytes
+```
 
 ```diff
 @@ Utility scripts@@

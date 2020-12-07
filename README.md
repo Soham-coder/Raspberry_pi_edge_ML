@@ -129,5 +129,5 @@ Output log - ./log/out.txt
 - find_model_size.sh - Calculates the Pretrained model size in weights folder
 - install_git.sh - Incase you want to install git in Linux-Ubuntu based system through apt package manager, use this
 - form_dict.py - Creates Dictionary/associative array of "image name" & "category"- Enter prompt as ./test_dwt
-(This code is just for reference)
++ (This code is just for reference)
 ```

@@ -85,7 +85,7 @@ Once all finish, press ctrl+c
 
 Output log - ./log/out.txt
 ```
-<a href="DWT_pratyay/log/out.txt">Pratyay_log</a>
+<a href="DWT_pratyay/log/out.txt">DWT_log</a>
 ```diff
 + Average Prediction Time: 0.24476244866847993 Seconds
 + Average Size of test images - 5894 bytes

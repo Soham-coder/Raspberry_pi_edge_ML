@@ -128,7 +128,8 @@ Output log - ./log/out.txt
 
 # Accuracy_logs
 
-<a href="Calculate_accuracy/log/normal.txt">Normal_accuracy</a>
+<a href="Calculate_accuracy/log/normal.txt">Normal_accuracy</a> <br>
+
 <a href="Calculate_accuracy/log/dwt.txt">DWT_accuracy</a>
 
 ```diff

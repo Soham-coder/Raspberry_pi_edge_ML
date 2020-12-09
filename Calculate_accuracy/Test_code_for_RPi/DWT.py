@@ -16,7 +16,7 @@ print('All packages are imported')
 
 #Import Test Dataset
 time0 = time.time()
-data_path='../Test Data for RPi'
+data_path='../Test_Data_for_RPi'
 list_folder=os.listdir(path = data_path)
 data=[]
 im_size=121

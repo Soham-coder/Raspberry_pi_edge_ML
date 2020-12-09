@@ -1,0 +1,16 @@
+1.14.0
+2.2.4-tf
+All packages are imported
+Time for reading all test images:  3.8572916984558105
+Time for Loading 2 models:  0.04459786415100098
+Required time for loading 2 models and allocating tensors, : 0.04499006271362305
+
+
+Accuracy of normal model=  0.010362694300518135
+Time to predict all  193  images is:  35.38134503364563
+Average time to predict a image is:  0.1833230312624126
+
+
+Accuracy of quantized model=  0.010362694300518135
+Time to predict all  193  images is:  35.95781493186951
+Average time to predict a image is:  0.186309921926785

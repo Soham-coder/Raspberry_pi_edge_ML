@@ -20,11 +20,9 @@ If this fails with a error message install git ...
 
 
 
+
 ```diff
 @@ Run normal_quantized code@@
-
-
-
 Go inside directory Normal_quantized
 
 ! sudo chmod +x script_normal.sh
@@ -59,10 +57,7 @@ Output log - ./log/out.txt
 
 
 ```diff
-@@ Run dwt code@@
-
-
-
+@@ Run dwt_quantized code@@
 Go inside directory DWT_quantized
 
 ! sudo chmod +x script_dwt.sh
@@ -93,10 +88,7 @@ Output log - ./log/out.txt
 
 
 ```diff
-@@ Run vgg16 code@@
-
-
-
+@@ Run vgg16_quantized code@@
 Go inside directory VGG16_quantized
 
 ! sudo chmod +x script_vgg16.sh

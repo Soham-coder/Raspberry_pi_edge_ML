@@ -44,7 +44,7 @@ Once all finish, press ctrl+c
 Output log - ./log/out.txt
 ```
 <a href="Normal_quantized/log/out.txt">Normal_quantized_log</a>
-<a href="Calculate_accuracy/log/normal.txt">Normal_quantized_accuracy</a>
+
 ```diff
 + Average Prediction Time: 5.3895740906397505 Seconds
 + Average Size of test images - 24035 bytes

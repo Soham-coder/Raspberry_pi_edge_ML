@@ -1,0 +1,967 @@
+1.14.0
+2.2.4-tf
+All packages are imported
+Time for Loading the model 0.10499429702758789 Seconds
+Press pushbutton for predicting images
+Enter path of image directory where images are present:Entered image directory is :  ./test_orig
+Image to be predicted is :  ./test_orig/34 (4).png
+Time for Reading the image 0.06118059158325195 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 4.060819864273071 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/3 (2).png
+Time for Reading the image 0.01171731948852539 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 4.311054468154907 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/16.png
+Time for Reading the image 0.004668235778808594 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 6.92362904548645 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/25 (4).png
+Time for Reading the image 0.004876136779785156 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.032494306564331 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/39 (4).png
+Time for Reading the image 0.004510641098022461 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.123265027999878 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/28.png
+Time for Reading the image 0.004747152328491211 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 6.1669135093688965 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/47 (4).png
+Time for Reading the image 0.01037144660949707 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 3.872018575668335 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/17 (4).png
+Time for Reading the image 0.005048990249633789 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.798981189727783 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/30 (3).png
+Time for Reading the image 0.010663986206054688 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 4.3748486042022705 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/21 (3).png
+Time for Reading the image 0.004267215728759766 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.064841270446777 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/24 (2).png
+Time for Reading the image 0.00481724739074707 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 6.703737258911133 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/27 (4).png
+Time for Reading the image 0.010596513748168945 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 3.351792097091675 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/2 (2).png
+Time for Reading the image 0.0047075748443603516 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.117293834686279 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/10 (2).png
+Time for Reading the image 0.0046269893646240234 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.102064609527588 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/32 (2).png
+Time for Reading the image 0.01052403450012207 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.09159255027771 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/13.png
+Time for Reading the image 0.004703521728515625 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.035439729690552 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/37.png
+Time for Reading the image 0.004785776138305664 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.080693960189819 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/3 (4).png
+Time for Reading the image 0.004575252532958984 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.037388801574707 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/11 (4).png
+Time for Reading the image 0.004674196243286133 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.084719181060791 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/4 (3).png
+Time for Reading the image 0.004532337188720703 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.038153648376465 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/1(3).png
+Time for Reading the image 0.004563093185424805 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.083390712738037 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/22.png
+Time for Reading the image 0.0047724246978759766 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.036262273788452 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/18.png
+Time for Reading the image 0.004545927047729492 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.506310939788818 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/29 (3).png
+Time for Reading the image 0.010806083679199219 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.6818530559539795 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/21.png
+Time for Reading the image 0.010647773742675781 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 6.541709661483765 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/47 (3).png
+Time for Reading the image 0.004683256149291992 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 6.3119871616363525 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/34 (3).png
+Time for Reading the image 0.0049762725830078125 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.213508367538452 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/6.png
+Time for Reading the image 0.010452985763549805 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 4.899224519729614 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/9 (2).png
+Time for Reading the image 0.004778623580932617 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.923453092575073 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/35 (2).png
+Time for Reading the image 0.011109590530395508 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 4.143103361129761 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/44 (2).png
+Time for Reading the image 0.0051114559173583984 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.105342388153076 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/32.png
+Time for Reading the image 0.004587411880493164 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.451149225234985 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/7 (2).png
+Time for Reading the image 0.011007308959960938 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 4.655622959136963 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/37 (2).png
+Time for Reading the image 0.004869937896728516 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.038556098937988 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/26 (4).png
+Time for Reading the image 0.004575490951538086 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.113311290740967 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/9.png
+Time for Reading the image 0.004914999008178711 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.068394660949707 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/16 (4).png
+Time for Reading the image 0.0047109127044677734 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.603270053863525 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/22 (3).png
+Time for Reading the image 0.01004934310913086 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 4.842211484909058 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/30 (4).png
+Time for Reading the image 0.0047032833099365234 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 6.931413412094116 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/41 (3).png
+Time for Reading the image 0.01036977767944336 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.578542232513428 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/9 (4).png
+Time for Reading the image 0.009842634201049805 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 4.391099691390991 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/36 (4).png
+Time for Reading the image 0.004814863204956055 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 7.039259195327759 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/27 (2).png
+Time for Reading the image 0.010334968566894531 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 6.8833231925964355 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/10.png
+Time for Reading the image 0.010251045227050781 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.35479474067688 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/6 (3).png
+Time for Reading the image 0.0098419189453125 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 7.167547941207886 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/48 (2).png
+Time for Reading the image 0.010746002197265625 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 7.313334226608276 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/4.png
+Time for Reading the image 0.010390281677246094 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.789124488830566 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/37 (3).png
+Time for Reading the image 0.0051386356353759766 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.4558844566345215 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/46 (4).png
+Time for Reading the image 0.004255533218383789 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.651216983795166 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/42 (2).png
+Time for Reading the image 0.010051965713500977 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 4.495988607406616 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/20 (2).png
+Time for Reading the image 0.004751443862915039 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.063516855239868 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/2 (4).png
+Time for Reading the image 0.004718303680419922 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.083358287811279 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/14 (2).png
+Time for Reading the image 0.005010366439819336 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.029884099960327 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/22 (2).png
+Time for Reading the image 0.004561424255371094 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.0394744873046875 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/12 (4).png
+Time for Reading the image 0.004698038101196289 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.079963207244873 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/43 (2).png
+Time for Reading the image 0.004815340042114258 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.035674333572388 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/30.png
+Time for Reading the image 0.0047109127044677734 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.095437049865723 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/34 (2).png
+Time for Reading the image 0.004985809326171875 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 6.002315521240234 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/43 (3).png
+Time for Reading the image 0.010670185089111328 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 4.968144416809082 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/15.png
+Time for Reading the image 0.010887622833251953 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 4.94584059715271 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/28 (3).png
+Time for Reading the image 0.011083126068115234 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 6.061533689498901 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/13 (2).png
+Time for Reading the image 0.004822731018066406 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.03915810585022 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/48.png
+Time for Reading the image 0.005089521408081055 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.033102989196777 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/21 (4).png
+Time for Reading the image 0.00490880012512207 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.081079483032227 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/16 (2).png
+Time for Reading the image 0.004983425140380859 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.043109893798828 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/6 (4).png
+Time for Reading the image 0.0044727325439453125 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 6.953761339187622 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/35 (3).png
+Time for Reading the image 0.00449061393737793 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.06770920753479 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/20 (4).png
+Time for Reading the image 0.004929304122924805 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.032519817352295 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/17.png
+Time for Reading the image 0.004988908767700195 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.0704309940338135 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/31 (2).png
+Time for Reading the image 0.004499673843383789 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.0676634311676025 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/17 (2).png
+Time for Reading the image 0.0045168399810791016 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.062571048736572 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/14.png
+Time for Reading the image 0.00470423698425293 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.070905685424805 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/41.png
+Time for Reading the image 0.004815340042114258 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 6.048043251037598 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/29.png
+Time for Reading the image 0.01061105728149414 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.344622611999512 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/42.png
+Time for Reading the image 0.010838747024536133 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 3.6898279190063477 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/4 (2).png
+Time for Reading the image 0.0046539306640625 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.116934061050415 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/24 (3).png
+Time for Reading the image 0.004590272903442383 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.06470799446106 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/26.png
+Time for Reading the image 0.0049474239349365234 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.065274477005005 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/41 (2).png
+Time for Reading the image 0.005053520202636719 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.0660319328308105 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/11 (3).png
+Time for Reading the image 0.004670619964599609 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.039552450180054 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/26 (3).png
+Time for Reading the image 0.01059865951538086 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.009095907211304 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/10 (4).png
+Time for Reading the image 0.004500389099121094 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.083919286727905 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/21 (2).png
+Time for Reading the image 0.0046231746673583984 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.083688735961914 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/38 (3).png
+Time for Reading the image 0.004231452941894531 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.066977500915527 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/47 (2).png
+Time for Reading the image 0.005053281784057617 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 6.375198841094971 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/27.png
+Time for Reading the image 0.010924577713012695 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 3.7479805946350098 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/48 (4).png
+Time for Reading the image 0.00485539436340332 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.219324350357056 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/31 (4).png
+Time for Reading the image 0.010269880294799805 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.290906667709351 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/30 (2).png
+Time for Reading the image 0.010966300964355469 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.397017002105713 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/2 (3).png
+Time for Reading the image 0.010599613189697266 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 4.290100812911987 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/32 (4).png
+Time for Reading the image 0.005201816558837891 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.072002410888672 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/12 (3).png
+Time for Reading the image 0.00453495979309082 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.040336608886719 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/46 (3).png
+Time for Reading the image 0.004517793655395508 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.207018852233887 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/11 (2).png
+Time for Reading the image 0.011073589324951172 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.028642177581787 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/14 (3).png
+Time for Reading the image 0.010777950286865234 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 4.930121183395386 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/23.png
+Time for Reading the image 0.004635810852050781 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.111368417739868 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/19.png
+Time for Reading the image 0.0047605037689208984 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.0645904541015625 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/20.png
+Time for Reading the image 0.004634857177734375 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 6.928660154342651 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/25 (3).png
+Time for Reading the image 0.010605335235595703 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.024185419082642 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/18 (3).png
+Time for Reading the image 0.004720449447631836 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.050696611404419 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/39 (2).png
+Time for Reading the image 0.0047435760498046875 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.6632537841796875 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/33 (2).png
+Time for Reading the image 0.010062456130981445 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 6.21305251121521 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/22 (4).png
+Time for Reading the image 0.0049512386322021484 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.134726047515869 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/8 (4).png
+Time for Reading the image 0.0048177242279052734 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.031748056411743 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/36 (3).png
+Time for Reading the image 0.004721879959106445 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.087181091308594 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/3 (3).png
+Time for Reading the image 0.00445556640625 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.8420798778533936 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/13 (4).png
+Time for Reading the image 0.011518239974975586 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 4.7396605014801025 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/31.png
+Time for Reading the image 0.01113581657409668 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 4.570488452911377 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/11.png
+Time for Reading the image 0.0047686100006103516 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.0403406620025635 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/37 (4).png
+Time for Reading the image 0.004893064498901367 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.052903175354004 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/40 (3).png
+Time for Reading the image 0.0044612884521484375 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.081487655639648 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/28 (2).png
+Time for Reading the image 0.004502296447753906 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.0392982959747314 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/12 (2).png
+Time for Reading the image 0.004920244216918945 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.115968942642212 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/6 (2).png
+Time for Reading the image 0.00457453727722168 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.780671834945679 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/38.png
+Time for Reading the image 0.01047658920288086 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.510208606719971 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/13 (3).png
+Time for Reading the image 0.010374307632446289 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 3.7830891609191895 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/40.png
+Time for Reading the image 0.004567146301269531 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.038822889328003 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/29 (2).png
+Time for Reading the image 0.0048525333404541016 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.044434070587158 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/44 (3).png
+Time for Reading the image 0.004553794860839844 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.502422571182251 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/46.png
+Time for Reading the image 0.01057887077331543 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.526214599609375 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/5.png
+Time for Reading the image 0.01001739501953125 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.8918678760528564 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/20 (3).png
+Time for Reading the image 0.004828214645385742 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.0401575565338135 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/36.png
+Time for Reading the image 0.004875898361206055 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.527312755584717 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/15 (4).png
+Time for Reading the image 0.011131525039672852 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 6.351611137390137 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/2.png
+Time for Reading the image 0.004564762115478516 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.03743839263916 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/41 (4).png
+Time for Reading the image 0.004709720611572266 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.06478476524353 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/9 (3).png
+Time for Reading the image 0.004474163055419922 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.036859512329102 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/39.png
+Time for Reading the image 0.004794597625732422 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.079786539077759 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/17 (3).png
+Time for Reading the image 0.004727840423583984 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.054521322250366 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/5 (4).png
+Time for Reading the image 0.004547595977783203 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.0368263721466064 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/33 (3).png
+Time for Reading the image 0.004528999328613281 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 6.900246620178223 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/8 (3).png
+Time for Reading the image 0.004629611968994141 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.109224557876587 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/8 (2).png
+Time for Reading the image 0.004441499710083008 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.033538103103638 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/27 (3).png
+Time for Reading the image 0.004508495330810547 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.036254644393921 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/23 (3).png
+Time for Reading the image 0.004796266555786133 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.081366062164307 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/15 (3).png
+Time for Reading the image 0.004614591598510742 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.038121461868286 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/1.png
+Time for Reading the image 0.004791975021362305 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.114209890365601 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/26 (2).png
+Time for Reading the image 0.004609346389770508 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 6.377136707305908 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/3.png
+Time for Reading the image 0.010381937026977539 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 4.962412357330322 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/43 (4).png
+Time for Reading the image 0.009689569473266602 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 4.20784068107605 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/28 (4).png
+Time for Reading the image 0.010541200637817383 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 7.150446176528931 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/38 (4).png
+Time for Reading the image 0.010740995407104492 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 6.22515606880188 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/42 (3).png
+Time for Reading the image 0.004868268966674805 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 7.225588798522949 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/25.png
+Time for Reading the image 0.011020660400390625 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 6.953295946121216 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/23 (4).png
+Time for Reading the image 0.010864973068237305 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 6.9171435832977295 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/38 (2).png
+Time for Reading the image 0.010904312133789062 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 7.256086826324463 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/36 (2).png
+Time for Reading the image 0.012214183807373047 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 7.3917365074157715 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/32 (3).png
+Time for Reading the image 0.010202646255493164 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 7.1750407218933105 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/18 (4).png
+Time for Reading the image 0.011972904205322266 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 6.291208505630493 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/19 (4).png
+Time for Reading the image 0.010818958282470703 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 7.176696300506592 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/33.png
+Time for Reading the image 0.011049985885620117 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 6.754110097885132 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/35.png
+Time for Reading the image 0.011344194412231445 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 7.191145896911621 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/31 (3).png
+Time for Reading the image 0.010898351669311523 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 3.7700040340423584 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/40 (2).png
+Time for Reading the image 0.004843950271606445 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 6.319736957550049 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/7 (3).png
+Time for Reading the image 0.01017308235168457 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.95649528503418 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/4 (4).png
+Time for Reading the image 0.011102437973022461 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 7.170190334320068 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/1 (4).png
+Time for Reading the image 0.010829687118530273 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.728625774383545 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/25 (2).png
+Time for Reading the image 0.011229515075683594 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 4.118185043334961 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/35 (4).png
+Time for Reading the image 0.004769086837768555 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.047229766845703 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/42 (4).png
+Time for Reading the image 0.0047245025634765625 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.070171594619751 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/44.png
+Time for Reading the image 0.00502324104309082 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.0726165771484375 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/5 (2).png
+Time for Reading the image 0.004672527313232422 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.745390176773071 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/45 (4).png
+Time for Reading the image 0.010771751403808594 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 4.369849443435669 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/45.png
+Time for Reading the image 0.0045702457427978516 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 6.58458137512207 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/8.png
+Time for Reading the image 0.010295867919921875 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 6.936380624771118 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/29 (4).png
+Time for Reading the image 0.010830879211425781 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 3.534606695175171 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/12.png
+Time for Reading the image 0.004687070846557617 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.086536645889282 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/10 (3).png
+Time for Reading the image 0.004577159881591797 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.03148627281189 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/16 (3).png
+Time for Reading the image 0.00453495979309082 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 6.939377784729004 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/5 (3).png
+Time for Reading the image 0.004753828048706055 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.03621506690979 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/34.png
+Time for Reading the image 0.010602474212646484 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.046705961227417 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/1(2).png
+Time for Reading the image 0.004857540130615234 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.040504693984985 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/39 (3).png
+Time for Reading the image 0.004602670669555664 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.116527080535889 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/7 (4).png
+Time for Reading the image 0.0046880245208740234 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.067618370056152 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/15 (2).png
+Time for Reading the image 0.0046100616455078125 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.400263547897339 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/45 (2).png
+Time for Reading the image 0.010529756546020508 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 6.584941387176514 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/40 (4).png
+Time for Reading the image 0.004941701889038086 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.0868141651153564 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/19 (2).png
+Time for Reading the image 0.005017280578613281 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.0527496337890625 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/19 (3).png
+Time for Reading the image 0.004633426666259766 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.056631326675415 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/18 (2).png
+Time for Reading the image 0.004656314849853516 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 6.073518753051758 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/45 (3).png
+Time for Reading the image 0.010792255401611328 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 4.014047384262085 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/24.png
+Time for Reading the image 0.00492548942565918 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.129959344863892 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/7.png
+Time for Reading the image 0.00471043586730957 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 5.033918619155884 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/33 (4).png
+Time for Reading the image 0.004337310791015625 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.876586675643921 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/46 (2).png
+Time for Reading the image 0.010439634323120117 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 4.832226753234863 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/44 (4).png
+Time for Reading the image 0.011176586151123047 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 4.349514007568359 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/48 (3).png
+Time for Reading the image 0.004726886749267578 Seconds
+Prediction:  [[0. 0. 1. 0.]]
+Time for Predicting the result 5.8434224128723145 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/23 (2).png
+Time for Reading the image 0.010602951049804688 Seconds
+Prediction:  [[0. 1. 0. 0.]]
+Time for Predicting the result 5.610524892807007 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/14 (4).png
+Time for Reading the image 0.010961055755615234 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 5.503016948699951 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/24 (4).png
+Time for Reading the image 0.010495185852050781 Seconds
+Prediction:  [[0. 0. 0. 1.]]
+Time for Predicting the result 6.676447153091431 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/43.png
+Time for Reading the image 0.010837078094482422 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 6.207946538925171 Seconds
+=======================================
+Image to be predicted is :  ./test_orig/47.png
+Time for Reading the image 0.010645627975463867 Seconds
+Prediction:  [[1. 0. 0. 0.]]
+Time for Predicting the result 4.1635215282440186 Seconds
+=======================================
+Enter path of image directory where images are present:Entered image directory is :  

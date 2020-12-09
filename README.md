@@ -19,15 +19,13 @@ If this fails with a error message install git ...
 
 
 
+
 ```diff
-@@ Instructions to run@@
-```
-```diff
-@@ Run normal code@@
+@@ Run normal_quantized code@@
 
 
 
-Go inside directory Normal_arindam
+Go inside directory Normal_quantized
 
 ! sudo chmod +x script_normal.sh
 
@@ -47,7 +45,7 @@ Once all finish, press ctrl+c
 
 Output log - ./log/out.txt
 ```
-<a href="Normal_arindam/log/out.txt">Arindam_log</a>
+<a href="Normal_quantized/log/out.txt">Normal_quantized_log</a>
 ```diff
 + Average Prediction Time: 5.3895740906397505 Seconds
 + Average Size of test images - 24035 bytes
@@ -65,7 +63,7 @@ Output log - ./log/out.txt
 
 
 
-Go inside directory DWT_pratyay
+Go inside directory DWT_quantized
 
 ! sudo chmod +x script_dwt.sh
 
@@ -85,7 +83,7 @@ Once all finish, press ctrl+c
 
 Output log - ./log/out.txt
 ```
-<a href="DWT_pratyay/log/out.txt">DWT_log</a>
+<a href="DWT_quantized/log/out.txt">DWT_quantized_log</a>
 ```diff
 + Average Prediction Time: 0.24476244866847993 Seconds
 + Average Size of test images - 5894 bytes
@@ -99,7 +97,7 @@ Output log - ./log/out.txt
 
 
 
-Go inside directory VGG16_pratyay
+Go inside directory VGG16_quantized
 
 ! sudo chmod +x script_vgg16.sh
 
@@ -119,12 +117,17 @@ Once all finish, press ctrl+c
 
 Output log - ./log/out.txt
 ```
-<a href="VGG16_pratyay/log/out.txt">VGG16_log</a>
+<a href="VGG16_quantized/log/out.txt">VGG16_quantized</a>
 ```diff
 + Average Prediction Time: 30.64683867924249 Seconds
 + Average Size of test images - 24035 bytes
 + Pre-trained Model Size - 18143072 bytes
 ```
+
+
+
+
+
 
 
 

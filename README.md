@@ -44,10 +44,12 @@ Once all finish, press ctrl+c
 Output log - ./log/out.txt
 ```
 <a href="Normal_quantized/log/out.txt">Normal_quantized_log</a>
+<a href="Calculate_accuracy/log/normal.txt">Normal_quantized_accuracy</a>
 ```diff
 + Average Prediction Time: 5.3895740906397505 Seconds
 + Average Size of test images - 24035 bytes
-+ Pre-trained Model Size - 7255312 bytes 
++ Pre-trained Model Size - 7255312 bytes
++ Accuracy - 0.0% 
 ```
 
 
@@ -83,6 +85,7 @@ Output log - ./log/out.txt
 + Average Prediction Time: 0.24476244866847993 Seconds
 + Average Size of test images - 5894 bytes
 + Pre-trained Model Size - 795552 bytes
++ Accuracy - 18.6%
 ```
 
 
@@ -122,6 +125,21 @@ Output log - ./log/out.txt
 
 
 
+
+# Accuracy_logs
+
+<a href="Calculate_accuracy/log/normal.txt">Normal_accuracy</a>
+<a href="Calculate_accuracy/log/dwt.txt">DWT_accuracy</a>
+
+```diff
+@@ Run Accuracy scripts@@
+Go inside directory Calculate_accuracy
+! sudo chmod +x script_accuracy.sh
+! ./script_accuracy.sh
+Output logs - 
+# ./log/dwt.txt
+# ./log/normal.txt
+```
 
 
 

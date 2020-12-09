@@ -47,7 +47,7 @@ def compress(img):
     
     return y 
 	
-data_path= os.getcwd()+'/Test_Data_for_RPi/old_dataset'
+data_path= os.getcwd()+'/old_dataset'
 list_folder=os.listdir(path = data_path)
 data=[]
 im_size =240

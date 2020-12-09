@@ -47,7 +47,7 @@ def compress(img):
     
     return y 
 	
-data_path= '/content/drive/MyDrive/Jadavpur Univ/Research/old_dataset'
+data_path= os.getcwd()+'/../Test_Data_for_RPi/old_dataset'
 list_folder=os.listdir(path = data_path)
 data=[]
 im_size =240
@@ -94,8 +94,8 @@ print('Number of images in testing set :',X_test.shape[0])
 import time
 
 #Read the model in (you can change the model and tflite model but keep in mind that the dwt compressed data should be used for the dwt model and the normal images to be used for the normal model)
-tflite_model = '/content/drive/MyDrive/Jadavpur Univ/Research/weights/cs_TFLite.tflite'
-tflite_model_quantized = '/content/drive/MyDrive/Jadavpur Univ/Research/weights/cs_Quantized_TFLite.tflite'
+tflite_model = os.getcwd()+'/../v2/cs_TFLite.tflite'
+tflite_model_quantized = os.getcwd()+'/../v2/cs_Quantized_TFLite.tflite'
 
 # Initialize TFLite interpreter using the model.
 # Load TFLite model and allocate tensors.

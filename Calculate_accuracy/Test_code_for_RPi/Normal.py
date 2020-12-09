@@ -15,7 +15,7 @@ print('All packages are imported')
 
 #Import Test Dataset
 time0 = time.time()
-data_path='../Test_Data_for_RPi'
+data_path=os.getcwd()+'/Test_Data_for_RPi/'
 list_folder=os.listdir(path = data_path)
 data=[]
 im_size=240    
@@ -43,8 +43,8 @@ time1 = time.time()
 print("Time for reading all test images: ",time1-time0)
 
 #Read the model in
-tflite_model = '../v2/Normal_TFLite.tflite'
-tflite_model_quantized = '../v2/Normal_Quantized_TFLite.tflite'
+tflite_model = os.getcwd()+'/v2/Normal_TFLite.tflite'
+tflite_model_quantized = os.getcwd()+'/v2/Normal_Quantized_TFLite.tflite'
 
 # Initialize TFLite interpreter using the model.
 # Load TFLite model and allocate tensors.

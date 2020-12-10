@@ -135,11 +135,23 @@ Output log - ./log/out.txt
 ```diff
 @@ Run Accuracy scripts@@
 Go inside directory Calculate_accuracy
-! sudo chmod +x script_accuracy.sh
-! ./script_accuracy.sh
+@@ Run normal accuracy@@
+! sudo chmod +x script_accuracy_normal.sh
+! ./script_accuracy_normal.sh
 Output logs - 
-# ./log/dwt.txt
 # ./log/normal.txt
+
+@@ Run dwt accuracy@@
+! sudo chmod +x script_accuracy_dwt.sh
+! ./script_accuracy_dwt.sh
+Output logs -
+# ./log/dwt.txt
+
+@@ Run cs accuracy@@
+! sudo chmod +x script_accuracy_cs.sh
+! ./script_accuracy_cs.sh
+Output logs - 
+# ./log/cs.txt
 ```
 
 

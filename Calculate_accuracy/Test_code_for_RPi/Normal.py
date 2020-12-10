@@ -1,4 +1,3 @@
-
 #Imort the packages
 import tensorflow as tf
 from tensorflow import keras
@@ -13,32 +12,68 @@ import time, os
 from sklearn.preprocessing import OneHotEncoder
 print('All packages are imported')
 
+
 #Import Test Dataset
 time0 = time.time()
-data_path=os.getcwd()+'/Test_Data_for_RPi/'
-list_folder=os.listdir(path = data_path)
-data=[]
-im_size=240    
-for i in list_folder:
-    new_path=os.path.join(data_path,i) 
-    pic_list=os.listdir(new_path)                                               
-    for img in pic_list:
+def read_data(direc, im_type):
+  x_test, y_test = [], []
+  list_folder=os.listdir(path = data_path)
+  if im_type == 'dwt':
+    for i in list_folder:
+      new_path=os.path.join(data_path,i) 
+      pic_list=os.listdir(new_path)                                              
+      for img in pic_list:  
         pic=os.path.join(new_path,img)   
-        arr=cv2.imread(pic)
-        data.append([arr,list_folder.index(i)])    
-  
-x_test,y_test = [],[]
-for i,j in data:
-    x_test.append(i)
-    y_test.append(j)
-x_test = np.array(x_test).reshape(-1,im_size,im_size,3)
-y_test = np.array(y_test).reshape(-1,1)
-
-encoder = OneHotEncoder()
-y_test = encoder.fit_transform(y_test)
-X_test = x_test/255
-Y_test = y_test.toarray()
+        arr=cv2.imread(pic,0)
+        arr = cv2.resize(arr,(240,240))
+        cA, _ = pywt.dwt2(arr,'db2')    #Performing DWT operation
+        if i == 'flair':
+          label = 0
+        elif i == 't1':
+          label = 1
+        elif i == 't1ce':
+          label = 2
+        elif i == 't2':
+          label = 3
+        x_test.append(cA) 
+        y_test.append(label)
     
+    X_test = np.array(x_test).reshape(-1,121,121,1)
+    X_test = X_test/255
+    y_test = np.array(y_test).reshape(-1,1)
+    encoder = OneHotEncoder()
+    y_test = encoder.fit_transform(y_test)
+    Y_test = y_test.toarray()
+  
+  elif im_type == 'normal':
+    for i in list_folder:
+      new_path=os.path.join(data_path,i) 
+      pic_list=os.listdir(new_path)                                              
+      for img in pic_list:  
+        pic=os.path.join(new_path,img)   
+        arr=cv2.imread(pic,0)
+        arr = cv2.resize(arr,(240,240))
+        if i == 'flair':
+          label = 0
+        elif i == 't1':
+          label = 1
+        elif i == 't1ce':
+          label = 2
+        elif i == 't2':
+          label = 3
+        x_test.append(cA) 
+        y_test.append(label)
+    
+    X_test = np.array(x_test).reshape(-1,240,240,3)
+    X_test = X_test/255
+    encoder = OneHotEncoder()
+    y_test = encoder.fit_transform(y_test)
+    Y_test = y_test.toarray()
+
+  return X_test, Y_test
+    
+data_path=os.getcwd()+'/Test_Data_for_RPi'
+X_test, Y_test = read_data(data_path,'normal')     
 time1 = time.time()
 print("Time for reading all test images: ",time1-time0)
 

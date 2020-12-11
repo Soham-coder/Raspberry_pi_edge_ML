@@ -51,7 +51,7 @@ def read_data(direc, im_type):
       pic_list=os.listdir(new_path)                                              
       for img in pic_list:  
         pic=os.path.join(new_path,img)   
-        arr=cv2.imread(pic,0)
+        arr=cv2.imread(pic)
         arr = cv2.resize(arr,(240,240))
         if i == 'flair':
           label = 0
@@ -61,11 +61,12 @@ def read_data(direc, im_type):
           label = 2
         elif i == 't2':
           label = 3
-        x_test.append(cA) 
+        x_test.append(arr) 
         y_test.append(label)
     
     X_test = np.array(x_test).reshape(-1,240,240,3)
     X_test = X_test/255
+    y_test = np.array(y_test).reshape(-1,1)
     encoder = OneHotEncoder()
     y_test = encoder.fit_transform(y_test)
     Y_test = y_test.toarray()
@@ -78,7 +79,7 @@ time1 = time.time()
 print("Time for reading all test images: ",time1-time0)
 
 #Read the model in
-tflite_model = os.getcwd()+'/v2/Normal_TFLite.tflite'
+tflite_model = os.getcwd()+'/v2/lite_flowers_model.tflite'
 tflite_model_quantized = os.getcwd()+'/v2/Normal_Quantized_TFLite.tflite'
 
 # Initialize TFLite interpreter using the model.

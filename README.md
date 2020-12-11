@@ -49,7 +49,7 @@ Output log - ./log/out.txt
 + Average Prediction Time: 5.3895740906397505 Seconds
 + Average Size of test images - 24035 bytes
 + Pre-trained Model Size - 7255312 bytes
-+ Accuracy - 0.0% 
++ Accuracy - 97.92% 
 ```
 
 

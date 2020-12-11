@@ -79,7 +79,7 @@ time1 = time.time()
 print("Time for reading all test images: ",time1-time0)
 
 #Read the model in
-tflite_model = os.getcwd()+'/v2/lite_flowers_model.tflite'
+tflite_model = os.getcwd()+'/v2/Normal_TFLite.tflite'
 tflite_model_quantized = os.getcwd()+'/v2/Normal_Quantized_TFLite.tflite'
 
 # Initialize TFLite interpreter using the model.

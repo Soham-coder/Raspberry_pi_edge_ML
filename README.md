@@ -186,9 +186,6 @@ P.S - tf=2.4.0 should get installed in pip3, python3
 
 <table>
   <tr>
-    <td align="center"><a href="https://arindam-coder.github.io/Personal-site/"><img src="https://avatars2.githubusercontent.com/u/23307811?v=4" width="100px;" alt=""/><br /><sub><b>Saad Pasta</b></sub></a></td>
-    <td align="center"><a href="https://github.com/kartikcho"><img src="https://avatars1.githubusercontent.com/u/48270786?v=4" width="100px;" alt=""/><br /><sub><b>Kartik Choudhary</b></sub></a></td>
-    <td align="center"><a href="https://naveen.syrusdark.website"><img src="https://avatars1.githubusercontent.com/u/49693820?v=4" width="100px;" alt=""/><br /><sub><b>Naveen M K</b></sub></a></td>
-    <td align="center"><a href="http://www.muhammadhasham.com"><img src="https://avatars0.githubusercontent.com/u/17927649?v=4" width="100px;" alt=""/><br /><sub><b>Muhammad Hasham</b></sub></a></td>
+    <td align="center"><a href="https://arindam-coder.github.io/Personal-site/"><img src="https://avatars2.githubusercontent.com/u/61356344?s=460&u=7a632344440dfe0fbba3021ab30cd73935024f43&v=4" width="100px;" alt=""/><br /><sub><b>Arindam Majee</b></sub></a></td>
   </tr>
 </table>

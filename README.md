@@ -164,14 +164,20 @@ Output logs -
 ```diff prompt
 ### Utility scripts
 
- average_prediction_runtime.py - Parses the log file and calculates average prediction time
- find_avg_test_image_size.sh - Calculates the average image size of test images in test image folder in bytes
- find_model_size.sh - Calculates the Pretrained model size in weights folder
- install_git.sh - Incase you want to install git in Linux-Ubuntu based system through apt package manager, use this
- form_dict.py - Creates Dictionary/associative array of "image name" & "category"- Enter prompt as ./test_dwt
- (This code is just for reference)
+average_prediction_runtime.py - Parses the log file and calculates average prediction time
+find_avg_test_image_size.sh - Calculates the average image size of test images in test image folder in bytes
+find_model_size.sh - Calculates the Pretrained model size in weights folder
+install_git.sh - Incase you want to install git in Linux-Ubuntu based system through apt package manager, use this
+form_dict.py - Creates Dictionary/associative array of "image name" & "category"- Enter prompt as ./test_dwt
+
 ```
 
 ```diff prompt
+install_tf_2_4_0_rpi3b.sh - Install tf==2.4.0 in Rpi 3b+/4 in Debian Raspbian OS
+cd Install_tf-2.4.0-armv71-rpi3b
+chmod +x install_tf_2_4_0_rpi3b.sh
+./install_tf_2_4_0_rpi3b.sh
+[Restart the Terminal](needed)
 
+P.S - tf=2.4.0 should get installed in pip3, python3
 ```

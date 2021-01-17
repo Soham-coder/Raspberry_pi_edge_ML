@@ -187,5 +187,6 @@ P.S - tf=2.4.0 should get installed in pip3, python3
 <table>
   <tr>
     <td align="center"><a href="https://arindam-coder.github.io/Personal-site/"><img src="https://avatars2.githubusercontent.com/u/61356344?s=460&u=7a632344440dfe0fbba3021ab30cd73935024f43&v=4" width="100px;" alt=""/><br /><sub><b>Arindam Majee</b></sub></a></td>
+	<td align="center"><a href="https://soham-coder.github.io/site/"><img src="https://avatars3.githubusercontent.com/u/65872025?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Soham Mondal</b></sub></a></td>
   </tr>
 </table>
